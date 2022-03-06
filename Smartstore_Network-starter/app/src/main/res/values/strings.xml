@@ -4,6 +4,6 @@
     <string name="level">%1$s %2$d 단계</string>
     <string name="next_level">%1$d/10</string>
     <string name="level_rest">"다음 레벨까지 %1$d잔 남았습니다."</string>
-    <string name="api_key">AIzaSyCaiGh-2R3JKtpvF6prn3SCWqG9o8dP_9Y</string>
+    <string name="api_key">asdf</string>
 
 </resources>
